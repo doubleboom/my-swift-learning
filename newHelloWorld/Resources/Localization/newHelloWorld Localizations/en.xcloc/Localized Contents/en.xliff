@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="newHelloWorld/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5219j"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>newHelloWorld</source>
+        <target state="new">newHelloWorld</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your camera in order to take photos.</source>
+        <target state="new">You need to grant the app access to your camera in order to take photos.</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
+        <source>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</source>
+        <target state="new">You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</target>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="newHelloWorld/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5219j"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target state="new">%@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ADDRESS" xml:space="preserve">
+        <source>ADDRESS</source>
+        <target state="new">ADDRESS</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="new">About</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Camera" xml:space="preserve">
+        <source>Camera</source>
+        <target state="new">Camera</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose your photo source" xml:space="preserve">
+        <source>Choose your photo source</source>
+        <target state="new">Choose your photo source</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Description" xml:space="preserve">
+        <source>Description</source>
+        <target state="new">Description</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Discover" xml:space="preserve">
+        <source>Discover</source>
+        <target state="new">Discover</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Facebook" xml:space="preserve">
+        <source>Facebook</source>
+        <target state="new">Facebook</target>
+        <note>Facebook</note>
+      </trans-unit>
+      <trans-unit id="Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target state="new">Favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FoodPin" xml:space="preserve">
+        <source>FoodPin</source>
+        <target state="new">FoodPin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GET START" xml:space="preserve">
+        <source>GET START</source>
+        <target state="new">GET START</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello Programming" xml:space="preserve">
+        <source>Hello Programming</source>
+        <target state="new">Hello Programming</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hello World" xml:space="preserve">
+        <source>Hello World</source>
+        <target state="new">Hello World</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Instagram" xml:space="preserve">
+        <source>Instagram</source>
+        <target state="new">Instagram</target>
+        <note>Instagram</note>
+      </trans-unit>
+      <trans-unit id="Item %@" xml:space="preserve">
+        <source>Item %@</source>
+        <target state="new">Item %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Log In" xml:space="preserve">
+        <source>Log In</source>
+        <target state="new">Log In</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark as favorite" xml:space="preserve">
+        <source>Mark as favorite</source>
+        <target state="new">Mark as favorite</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NEXT" xml:space="preserve">
+        <source>NEXT</source>
+        <target state="new">NEXT</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Need help with coding problems? Register!" xml:space="preserve">
+        <source>Need help with coding problems? Register!</source>
+        <target state="new">Need help with coding problems? Register!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Restaurant" xml:space="preserve">
+        <source>New Restaurant</source>
+        <target state="new">New Restaurant</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not yet available" xml:space="preserve">
+        <source>Not yet available</source>
+        <target state="new">Not yet available</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="new">OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHONE" xml:space="preserve">
+        <source>PHONE</source>
+        <target state="new">PHONE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Photo Library" xml:space="preserve">
+        <source>Photo Library</source>
+        <target state="new">Photo Library</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rate it" xml:space="preserve">
+        <source>Rate it</source>
+        <target state="new">Rate it</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rate us on App Store" xml:space="preserve">
+        <source>Rate us on App Store</source>
+        <target state="new">Rate us on App Store</target>
+        <note>Rate us on App Store</note>
+      </trans-unit>
+      <trans-unit id="Remove from favorites" xml:space="preserve">
+        <source>Remove from favorites</source>
+        <target state="new">Remove from favorites</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reserve a table" xml:space="preserve">
+        <source>Reserve a table</source>
+        <target state="new">Reserve a table</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search restaurants..." xml:space="preserve">
+        <source>Search restaurants...</source>
+        <target state="new">Search restaurants...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sign Up" xml:space="preserve">
+        <source>Sign Up</source>
+        <target state="new">Sign Up</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Skip" xml:space="preserve">
+        <source>Skip</source>
+        <target state="new">Skip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sorry, this feature is not available yet. Pleaseretry later." xml:space="preserve">
+        <source>Sorry, this feature is not available yet. Pleaseretry later.</source>
+        <target state="new">Sorry, this feature is not available yet. Pleaseretry later.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TYPE" xml:space="preserve">
+        <source>TYPE</source>
+        <target state="new">TYPE</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tell us your feedback" xml:space="preserve">
+        <source>Tell us your feedback</source>
+        <target state="new">Tell us your feedback</target>
+        <note>Tell us your feedback</note>
+      </trans-unit>
+      <trans-unit id="Twitter" xml:space="preserve">
+        <source>Twitter</source>
+        <target state="new">Twitter</target>
+        <note>Twitter</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
