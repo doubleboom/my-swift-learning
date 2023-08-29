@@ -1,18 +1,12 @@
-//
-//  ActivityView.swift
-//  newHelloWorld
-//
-//  Created by leee on 2023/8/28.
-//
-
 import SwiftUI
-
-struct ActivityView: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+struct ActivityView: UIViewControllerRepresentable {
+    var activityItems: [Any]
+    var applicationActivities: [UIActivity]? = nil
+    func makeUIViewController(context: Context) -> some UIViewController {
+        let activityController = UIActivityViewController(activityItems: activityItems, applicationActivities: applicationActivities)
+        return activityController
+    }
+    func updateUIViewController(_ uiViewController: UIViewControllerType,context: Context) {
     }
 }
 
-#Preview {
-    ActivityView()
-}

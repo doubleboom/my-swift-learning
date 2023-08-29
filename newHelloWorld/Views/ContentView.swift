@@ -9,6 +9,30 @@ import SwiftUI
 import AVFoundation
 
 struct ContentView: View {
+    @State private var selectedTabIndex = 0
+    
+    var body: some View {
+        TabView(selection: $selectedTabIndex,
+                content:  {
+            RestaurantListView()
+                .tabItem { Label("Favorites",systemImage: "tag.fill") }
+                .tag(0)
+            Text("Discover")
+                .tabItem { Label("Discover",systemImage: "wand.and.rays") }
+                .tag(1)
+            AboutView()
+                .tabItem { Label("About",systemImage: "square.stack") }
+                .tag(2)
+        })
+        .accentColor(Color("NavigationBarTitle"))
+    }
+}
+
+#Preview {
+    ContentView()
+}
+
+struct LoginView : View{
     let synthesizer = AVSpeechSynthesizer()
     
     func text2speech(text:String) {
@@ -20,8 +44,7 @@ struct ContentView: View {
         self.synthesizer.speak(utterance)
     }
     
-    var body: some View {
-        
+    var body: some View{
         VStack(spacing:20) {
             
             Button {
@@ -76,13 +99,6 @@ struct ContentView: View {
     }
 }
 
-#Preview {
-    ContentView()
-}
-#Preview {
-    ContentView()
-        .previewInterfaceOrientation(.landscapeLeft)
-}
 
 struct VSignUpButtonGroup: View {
     @Environment(\.verticalSizeClass) var verticalSizeClass

@@ -7,14 +7,17 @@
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>newHelloWorld</source>
+        <target state="translated">FoodPin</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>You need to grant the app access to your camera in order to take photos.</source>
+        <target state="translated">摄像头权限</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>You need to grant the app access to your photo library so you can pick your favorite restaurant photo.</source>
+        <target state="translated">照片库权限</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
     </body>
@@ -26,154 +29,192 @@
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target state="translated">%@</target>
         <note/>
       </trans-unit>
       <trans-unit id="ADDRESS" xml:space="preserve">
         <source>ADDRESS</source>
+        <target state="translated">地址</target>
         <note/>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
+        <target state="translated">关于</target>
         <note/>
       </trans-unit>
       <trans-unit id="Camera" xml:space="preserve">
         <source>Camera</source>
+        <target state="translated">摄像头</target>
         <note/>
       </trans-unit>
       <trans-unit id="Choose your photo source" xml:space="preserve">
         <source>Choose your photo source</source>
+        <target state="translated">从图库里面选择</target>
         <note/>
       </trans-unit>
       <trans-unit id="Description" xml:space="preserve">
         <source>Description</source>
+        <target state="translated">描述</target>
         <note/>
       </trans-unit>
       <trans-unit id="Discover" xml:space="preserve">
         <source>Discover</source>
+        <target state="translated">探索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Facebook" xml:space="preserve">
         <source>Facebook</source>
+        <target state="translated">Facebook</target>
         <note>Facebook</note>
       </trans-unit>
       <trans-unit id="Favorites" xml:space="preserve">
         <source>Favorites</source>
+        <target state="translated">喜欢</target>
         <note/>
       </trans-unit>
       <trans-unit id="FoodPin" xml:space="preserve">
         <source>FoodPin</source>
+        <target state="translated">FoodPin</target>
         <note/>
       </trans-unit>
       <trans-unit id="GET START" xml:space="preserve">
         <source>GET START</source>
+        <target state="translated">开始</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hello Programming" xml:space="preserve">
         <source>Hello Programming</source>
+        <target state="translated">你好编程</target>
         <note/>
       </trans-unit>
       <trans-unit id="Hello World" xml:space="preserve">
         <source>Hello World</source>
+        <target state="translated">你好世界</target>
         <note/>
       </trans-unit>
       <trans-unit id="Instagram" xml:space="preserve">
         <source>Instagram</source>
+        <target state="translated">Instagram</target>
         <note>Instagram</note>
       </trans-unit>
       <trans-unit id="Item %@" xml:space="preserve">
         <source>Item %@</source>
+        <target state="translated">Item %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="Log In" xml:space="preserve">
         <source>Log In</source>
+        <target state="translated">登录</target>
         <note/>
       </trans-unit>
       <trans-unit id="Mark as favorite" xml:space="preserve">
         <source>Mark as favorite</source>
+        <target state="translated">标记喜欢</target>
         <note/>
       </trans-unit>
       <trans-unit id="NEXT" xml:space="preserve">
         <source>NEXT</source>
+        <target state="translated">下一步</target>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
+        <target state="translated">名字</target>
         <note/>
       </trans-unit>
       <trans-unit id="Need help with coding problems? Register!" xml:space="preserve">
         <source>Need help with coding problems? Register!</source>
+        <target state="translated">是否需要帮助</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Restaurant" xml:space="preserve">
         <source>New Restaurant</source>
+        <target state="translated">新建餐厅</target>
         <note/>
       </trans-unit>
       <trans-unit id="Not yet available" xml:space="preserve">
         <source>Not yet available</source>
+        <target state="translated">尚未提供</target>
         <note/>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
         <source>OK</source>
+        <target state="translated">确定</target>
         <note/>
       </trans-unit>
       <trans-unit id="PHONE" xml:space="preserve">
         <source>PHONE</source>
+        <target state="translated">电话</target>
         <note/>
       </trans-unit>
       <trans-unit id="Photo Library" xml:space="preserve">
         <source>Photo Library</source>
+        <target state="translated">照片库</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate it" xml:space="preserve">
         <source>Rate it</source>
+        <target state="translated">评分</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rate us on App Store" xml:space="preserve">
         <source>Rate us on App Store</source>
+        <target state="translated">去 App Store 评分</target>
         <note>Rate us on App Store</note>
       </trans-unit>
       <trans-unit id="Remove from favorites" xml:space="preserve">
         <source>Remove from favorites</source>
+        <target state="translated">取消喜欢</target>
         <note/>
       </trans-unit>
       <trans-unit id="Reserve a table" xml:space="preserve">
         <source>Reserve a table</source>
+        <target state="translated">Reserve a table</target>
         <note/>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
+        <target state="translated">保存</target>
         <note/>
       </trans-unit>
       <trans-unit id="Search restaurants..." xml:space="preserve">
         <source>Search restaurants...</source>
+        <target state="translated">查找餐厅...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
         <source>Share</source>
+        <target state="translated">分享</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sign Up" xml:space="preserve">
         <source>Sign Up</source>
+        <target state="translated">注册</target>
         <note/>
       </trans-unit>
       <trans-unit id="Skip" xml:space="preserve">
         <source>Skip</source>
+        <target state="translated">跳过</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sorry, this feature is not available yet. Pleaseretry later." xml:space="preserve">
         <source>Sorry, this feature is not available yet. Pleaseretry later.</source>
+        <target state="translated">对不起，功能尚未上线</target>
         <note/>
       </trans-unit>
       <trans-unit id="TYPE" xml:space="preserve">
         <source>TYPE</source>
+        <target state="translated">类型</target>
         <note/>
       </trans-unit>
       <trans-unit id="Tell us your feedback" xml:space="preserve">
         <source>Tell us your feedback</source>
+        <target state="translated">反馈</target>
         <note>Tell us your feedback</note>
       </trans-unit>
       <trans-unit id="Twitter" xml:space="preserve">
         <source>Twitter</source>
+        <target state="translated">Twitter</target>
         <note>Twitter</note>
       </trans-unit>
     </body>

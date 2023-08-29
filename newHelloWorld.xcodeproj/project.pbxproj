@@ -14,6 +14,28 @@
 		997F885A2A9C79D50055D1F3 /* newHelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88592A9C79D50055D1F3 /* newHelloWorldTests.swift */; };
 		997F88642A9C79D50055D1F3 /* newHelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88632A9C79D50055D1F3 /* newHelloWorldUITests.swift */; };
 		997F88662A9C79D50055D1F3 /* newHelloWorldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88652A9C79D50055D1F3 /* newHelloWorldUITestsLaunchTests.swift */; };
+		997F88742A9C87DF0055D1F3 /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88732A9C87DF0055D1F3 /* List.swift */; };
+		997F88762A9C8D780055D1F3 /* RestaurantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88752A9C8D780055D1F3 /* RestaurantListView.swift */; };
+		997F88792A9C9AEF0055D1F3 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88782A9C9AEF0055D1F3 /* Restaurant.swift */; };
+		997F887B2A9CE8040055D1F3 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F887A2A9CE8040055D1F3 /* ActivityView.swift */; };
+		997F887D2A9CEFCD0055D1F3 /* RestaurantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F887C2A9CEFCD0055D1F3 /* RestaurantDetailView.swift */; };
+		997F888E2A9CF8C90055D1F3 /* Nunito-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 997F888A2A9CF8C90055D1F3 /* Nunito-VariableFont_wght.ttf */; };
+		997F888F2A9CF8C90055D1F3 /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 997F888B2A9CF8C90055D1F3 /* Nunito-Regular.ttf */; };
+		997F88902A9CF8C90055D1F3 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 997F888C2A9CF8C90055D1F3 /* Nunito-Bold.ttf */; };
+		997F88912A9CF8C90055D1F3 /* Nunito-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 997F888D2A9CF8C90055D1F3 /* Nunito-Italic-VariableFont_wght.ttf */; };
+		997F88942A9D11240055D1F3 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88932A9D11240055D1F3 /* MapView.swift */; };
+		997F88962A9DD36D0055D1F3 /* ReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88952A9DD36D0055D1F3 /* ReviewView.swift */; };
+		997F88982A9DDD870055D1F3 /* NewRestaurantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88972A9DDD870055D1F3 /* NewRestaurantView.swift */; };
+		997F889B2A9DE2140055D1F3 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F889A2A9DE2140055D1F3 /* ImagePicker.swift */; };
+		997F889D2A9DEB220055D1F3 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F889C2A9DEB220055D1F3 /* Persistence.swift */; };
+		997F88A02A9DEC370055D1F3 /* FoodPin.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 997F889E2A9DEC370055D1F3 /* FoodPin.xcdatamodeld */; };
+		997F88A32A9E13260055D1F3 /* RestaurantFormViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88A22A9E13260055D1F3 /* RestaurantFormViewModel.swift */; };
+		997F88A52A9E24A90055D1F3 /* TutorialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88A42A9E24A90055D1F3 /* TutorialView.swift */; };
+		997F88A72A9E31AF0055D1F3 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88A62A9E31AF0055D1F3 /* AboutView.swift */; };
+		997F88A92A9E339B0055D1F3 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88A82A9E339B0055D1F3 /* WebView.swift */; };
+		997F88AB2A9E35040055D1F3 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997F88AA2A9E35040055D1F3 /* SafariView.swift */; };
+		997F88AE2A9E3FB90055D1F3 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 997F88AD2A9E3FB90055D1F3 /* InfoPlist.xcstrings */; };
+		997F88B02A9E3FB90055D1F3 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 997F88AF2A9E3FB90055D1F3 /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +66,29 @@
 		997F885F2A9C79D50055D1F3 /* newHelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newHelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		997F88632A9C79D50055D1F3 /* newHelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newHelloWorldUITests.swift; sourceTree = "<group>"; };
 		997F88652A9C79D50055D1F3 /* newHelloWorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newHelloWorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		997F88732A9C87DF0055D1F3 /* List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
+		997F88752A9C8D780055D1F3 /* RestaurantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantListView.swift; sourceTree = "<group>"; };
+		997F88782A9C9AEF0055D1F3 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		997F887A2A9CE8040055D1F3 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		997F887C2A9CEFCD0055D1F3 /* RestaurantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailView.swift; sourceTree = "<group>"; };
+		997F888A2A9CF8C90055D1F3 /* Nunito-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		997F888B2A9CF8C90055D1F3 /* Nunito-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Regular.ttf"; sourceTree = "<group>"; };
+		997F888C2A9CF8C90055D1F3 /* Nunito-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Bold.ttf"; sourceTree = "<group>"; };
+		997F888D2A9CF8C90055D1F3 /* Nunito-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Italic-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		997F88922A9CF9450055D1F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		997F88932A9D11240055D1F3 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		997F88952A9DD36D0055D1F3 /* ReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewView.swift; sourceTree = "<group>"; };
+		997F88972A9DDD870055D1F3 /* NewRestaurantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewRestaurantView.swift; sourceTree = "<group>"; };
+		997F889A2A9DE2140055D1F3 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		997F889C2A9DEB220055D1F3 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		997F889F2A9DEC370055D1F3 /* FoodPin.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FoodPin.xcdatamodel; sourceTree = "<group>"; };
+		997F88A22A9E13260055D1F3 /* RestaurantFormViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantFormViewModel.swift; sourceTree = "<group>"; };
+		997F88A42A9E24A90055D1F3 /* TutorialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialView.swift; sourceTree = "<group>"; };
+		997F88A62A9E31AF0055D1F3 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		997F88A82A9E339B0055D1F3 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		997F88AA2A9E35040055D1F3 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		997F88AD2A9E3FB90055D1F3 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		997F88AF2A9E3FB90055D1F3 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +139,18 @@
 		997F88472A9C79D10055D1F3 /* newHelloWorld */ = {
 			isa = PBXGroup;
 			children = (
+				997F88AD2A9E3FB90055D1F3 /* InfoPlist.xcstrings */,
+				997F88AF2A9E3FB90055D1F3 /* Localizable.xcstrings */,
+				997F88A12A9E130A0055D1F3 /* ViewModel */,
+				997F88992A9DE1F20055D1F3 /* Utils */,
+				997F88922A9CF9450055D1F3 /* Info.plist */,
+				997F887E2A9CF7CB0055D1F3 /* Resources */,
+				997F88772A9C9ADD0055D1F3 /* Models */,
+				997F88722A9C87B90055D1F3 /* Views */,
 				997F88482A9C79D10055D1F3 /* newHelloWorldApp.swift */,
-				997F884A2A9C79D10055D1F3 /* ContentView.swift */,
 				997F884C2A9C79D50055D1F3 /* Assets.xcassets */,
 				997F884E2A9C79D50055D1F3 /* Preview Content */,
+				997F889E2A9DEC370055D1F3 /* FoodPin.xcdatamodeld */,
 			);
 			path = newHelloWorld;
 			sourceTree = "<group>";
@@ -125,6 +178,77 @@
 				997F88652A9C79D50055D1F3 /* newHelloWorldUITestsLaunchTests.swift */,
 			);
 			path = newHelloWorldUITests;
+			sourceTree = "<group>";
+		};
+		997F88722A9C87B90055D1F3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				997F884A2A9C79D10055D1F3 /* ContentView.swift */,
+				997F88732A9C87DF0055D1F3 /* List.swift */,
+				997F88752A9C8D780055D1F3 /* RestaurantListView.swift */,
+				997F887A2A9CE8040055D1F3 /* ActivityView.swift */,
+				997F887C2A9CEFCD0055D1F3 /* RestaurantDetailView.swift */,
+				997F88932A9D11240055D1F3 /* MapView.swift */,
+				997F88952A9DD36D0055D1F3 /* ReviewView.swift */,
+				997F88972A9DDD870055D1F3 /* NewRestaurantView.swift */,
+				997F88A42A9E24A90055D1F3 /* TutorialView.swift */,
+				997F88A62A9E31AF0055D1F3 /* AboutView.swift */,
+				997F88A82A9E339B0055D1F3 /* WebView.swift */,
+				997F88AA2A9E35040055D1F3 /* SafariView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		997F88772A9C9ADD0055D1F3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				997F88782A9C9AEF0055D1F3 /* Restaurant.swift */,
+				997F889C2A9DEB220055D1F3 /* Persistence.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		997F887E2A9CF7CB0055D1F3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				997F88AC2A9E3D290055D1F3 /* Localization */,
+				997F88892A9CF8C90055D1F3 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		997F88892A9CF8C90055D1F3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				997F888A2A9CF8C90055D1F3 /* Nunito-VariableFont_wght.ttf */,
+				997F888B2A9CF8C90055D1F3 /* Nunito-Regular.ttf */,
+				997F888C2A9CF8C90055D1F3 /* Nunito-Bold.ttf */,
+				997F888D2A9CF8C90055D1F3 /* Nunito-Italic-VariableFont_wght.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		997F88992A9DE1F20055D1F3 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				997F889A2A9DE2140055D1F3 /* ImagePicker.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		997F88A12A9E130A0055D1F3 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				997F88A22A9E13260055D1F3 /* RestaurantFormViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		997F88AC2A9E3D290055D1F3 /* Localization */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Localization;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,6 +337,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 997F883C2A9C79D10055D1F3;
 			productRefGroup = 997F88462A9C79D10055D1F3 /* Products */;
@@ -232,6 +357,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				997F88502A9C79D50055D1F3 /* Preview Assets.xcassets in Resources */,
+				997F88AE2A9E3FB90055D1F3 /* InfoPlist.xcstrings in Resources */,
+				997F88B02A9E3FB90055D1F3 /* Localizable.xcstrings in Resources */,
+				997F88902A9CF8C90055D1F3 /* Nunito-Bold.ttf in Resources */,
+				997F888E2A9CF8C90055D1F3 /* Nunito-VariableFont_wght.ttf in Resources */,
+				997F888F2A9CF8C90055D1F3 /* Nunito-Regular.ttf in Resources */,
+				997F88912A9CF8C90055D1F3 /* Nunito-Italic-VariableFont_wght.ttf in Resources */,
 				997F884D2A9C79D50055D1F3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,8 +388,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				997F88982A9DDD870055D1F3 /* NewRestaurantView.swift in Sources */,
+				997F88A72A9E31AF0055D1F3 /* AboutView.swift in Sources */,
+				997F88A02A9DEC370055D1F3 /* FoodPin.xcdatamodeld in Sources */,
+				997F88792A9C9AEF0055D1F3 /* Restaurant.swift in Sources */,
+				997F88962A9DD36D0055D1F3 /* ReviewView.swift in Sources */,
+				997F88942A9D11240055D1F3 /* MapView.swift in Sources */,
+				997F887D2A9CEFCD0055D1F3 /* RestaurantDetailView.swift in Sources */,
+				997F88762A9C8D780055D1F3 /* RestaurantListView.swift in Sources */,
 				997F884B2A9C79D10055D1F3 /* ContentView.swift in Sources */,
+				997F88A52A9E24A90055D1F3 /* TutorialView.swift in Sources */,
+				997F88AB2A9E35040055D1F3 /* SafariView.swift in Sources */,
+				997F889B2A9DE2140055D1F3 /* ImagePicker.swift in Sources */,
+				997F88A92A9E339B0055D1F3 /* WebView.swift in Sources */,
+				997F88A32A9E13260055D1F3 /* RestaurantFormViewModel.swift in Sources */,
 				997F88492A9C79D10055D1F3 /* newHelloWorldApp.swift in Sources */,
+				997F889D2A9DEB220055D1F3 /* Persistence.swift in Sources */,
+				997F88742A9C87DF0055D1F3 /* List.swift in Sources */,
+				997F887B2A9CE8040055D1F3 /* ActivityView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,7 +494,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -404,7 +551,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -422,13 +569,16 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"newHelloWorld/Preview Content\"";
+				DEVELOPMENT_TEAM = W872XC8HT8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = newHelloWorld/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -450,13 +600,16 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"newHelloWorld/Preview Content\"";
+				DEVELOPMENT_TEAM = W872XC8HT8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = newHelloWorld/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -478,7 +631,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leee.newHelloWorldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -497,7 +650,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.leee.newHelloWorldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -582,6 +735,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		997F889E2A9DEC370055D1F3 /* FoodPin.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				997F889F2A9DEC370055D1F3 /* FoodPin.xcdatamodel */,
+			);
+			currentVersion = 997F889F2A9DEC370055D1F3 /* FoodPin.xcdatamodel */;
+			path = FoodPin.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 997F883D2A9C79D10055D1F3 /* Project object */;
 }
